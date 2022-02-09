@@ -1,6 +1,11 @@
 import React,{useState} from "react";
 
-function Game() {
-const[space, setSpace] = useState([])
+import React from 'react'
 
+const index = () => {
+  return (
+    <div>index</div>
+  )
 }
+
+export default index
